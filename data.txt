@@ -3,3 +3,5 @@ This is assignement one of git.
 Assignment is given by Techademy and Xoriant.
 I am creating this file using vim editor.
 I saved this file in file data.txt
+This is first Line.
+This is second Line.
